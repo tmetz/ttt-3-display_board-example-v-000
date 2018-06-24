@@ -8,3 +8,5 @@ def display_board
   puts vert_line
   puts square + "|" + square + "|" + square
 end
+
+display_board
